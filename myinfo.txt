@@ -1,2 +1,2 @@
 "Full name: A. S." 
-CSCE major
+CECS major
